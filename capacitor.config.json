@@ -1,0 +1,8 @@
+{
+  "appId": "ru.mam.mozgochar",
+  "appName": "Мозгочар",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
