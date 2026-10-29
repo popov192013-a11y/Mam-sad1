@@ -1,0 +1,16 @@
+{
+  "name": "mam-brain-puzzle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Мозгочар — уютные логические головоломки для Android",
+  "scripts": {
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
